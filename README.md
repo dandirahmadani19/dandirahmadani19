@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dandirahmadani19
 - 👀 I’m interested in Website and Mobile Programming
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript And Golang
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me 
 - Instagram @dandi_dhany
