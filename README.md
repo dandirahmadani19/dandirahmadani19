@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me 
 - Instagram @dandi_dhany
+- LinkedIn https://linkedid.com/in/dandi-rahmadani
 
 <!---
 dandirahmadani19/dandirahmadani19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
