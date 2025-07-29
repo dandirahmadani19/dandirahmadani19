@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Javascript And Golang
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me 
-- Instagram @dandi_dhany
 - LinkedIn https://linkedin.com/in/dandi-rahmadani
 
 <!---
